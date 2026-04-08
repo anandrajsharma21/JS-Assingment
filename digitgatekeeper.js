@@ -34,4 +34,4 @@ for (let x = L; x <= R; x++) {
     }
 }
 
-alert(count);
+alert(count):
