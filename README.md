@@ -1,8 +1,8 @@
-##JavaScript Assignment 4
+#JavaScript Assignment 4
 Course
 Fundamentals of Web Design (CSE 106)
 
-##Description
+#Description
 This repository contains solutions to Assignment 4 using basic JavaScript concepts. All problems are solved using:
 
 prompt() for input
@@ -17,7 +17,7 @@ File Structure
  → Contest Score Judge
  
 
-##Q1 – Digit Gatekeeper
+#Q1 – Digit Gatekeeper
 Loop from L to R
 
 Check:
@@ -29,7 +29,7 @@ Count valid numbers
 
 Time Complexity: O(N × d)
 
-##Q2 – Roll-Seed Lock
+#Q2 – Roll-Seed Lock
 Perform 3 transformations on number
 
 Use conditional logic (even/odd)
@@ -40,7 +40,7 @@ number is 3-digit
 middle digit equals seed
 Time Complexity: O(1)
 
-##Q3 – Mirror Corridor
+#Q3 – Mirror Corridor
 Try values of X from 0 to 100000
 
 Check:
@@ -51,7 +51,7 @@ Return smallest X
 
 Time Complexity: O(100000 × d)
 
-##Q4 – Fare Calculator
+#Q4 – Fare Calculator
 Apply fare rules step by step:
 
 base + distance cost
@@ -62,13 +62,13 @@ Round to nearest multiple of 5
 
 Time Complexity: O(1)
 
-##Q5 – Skipping Numbers
+#Q5 – Skipping Numbers
 Increment m from 1 onwards
 Add numbers except multiples of (seed + 2)
 Stop when sum ≥ N
 Time Complexity: O(m)
 
-##Q6 – Contest Score Judge
+#Q6 – Contest Score Judge
 Compute score = 3a + b − 2c
 
 Apply constraints:
