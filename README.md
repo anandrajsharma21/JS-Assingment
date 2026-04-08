@@ -9,12 +9,19 @@ prompt() for input
 alert() for output
 loops, conditions, and functions
 File Structure
+
  → Digit Gatekeeper
+ 
  → Roll-Seed Lock
+ 
  → Mirror Corridor
+ 
  → Fare Calculator
+ 
  → Skipping Numbers
+ 
  → Contest Score Judge
+ 
  
 
 #Q1 – Digit Gatekeeper
@@ -84,5 +91,9 @@ Open browser console OR attach file to HTML
 Run each .js file separately
 Enter inputs via prompt
 Output will be shown using alert
+
+
 By
-Anand Raj Sharma course: Btech(M&C)/009
+Anand Raj Sharma
+
+Course: Btech(M&C)/009
